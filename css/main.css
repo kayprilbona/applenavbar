@@ -1,0 +1,38 @@
+* {
+	font-family: arial, sans-serif;
+}
+
+.navigation {
+	background-color: #000;
+	text-align: center;
+	font-size: 15px;
+}
+
+.navigation ul {
+	margin: 0;
+	padding: 15px 20px;
+}
+
+.navigation li {
+	display: inline;
+	cursor: pointer;
+}
+
+.navigation a {
+	color: #fff;
+	text-decoration: none;
+	padding: 0px 20px;
+	margin: 10px;
+
+}
+.icons {
+	position: relative;
+	right: 200px;
+	height: 50px;
+	color: #fff;
+	float: right;
+
+}
+a:hover {
+	text-decoration: underline;
+}
